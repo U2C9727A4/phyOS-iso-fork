@@ -63,6 +63,7 @@ lib32-v4l-utils
 libxss
 light
 linux
+linux-lts
 #linux-atm
 linux-firmware
 #linux-firmware-qlogic
